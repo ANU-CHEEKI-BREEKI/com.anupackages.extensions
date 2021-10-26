@@ -1,0 +1,36 @@
+{
+    "name": "com.anupackages.extensions",
+    "version": "1.0.0",
+    "displayName": "ANU Extensions",
+    "description": "Handy unity classes extensions",
+    "keywords": [
+      "unity3d",
+      "upm",
+      "utils",
+      "extensions",
+      "coroutine",
+      "vector",
+      "rect",
+      "camera",
+      "transform",
+      "component",
+      "color"
+    ],
+    "dependencies": {
+      "com.anupackages.utils": "1.0.0"
+    },
+    "author": {
+      "name": "ANU CHEEKI BREEKI",
+      "url": "https://github.com/ANU-CHEEKI-BREEKI"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ANU-CHEEKI-BREEKI/com.anupackages.extensions.git"
+    },
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/ANU-CHEEKI-BREEKI/com.anupackages.extensions/issues"
+    },
+    "homepage": "https://github.com/ANU-CHEEKI-BREEKI/com.anupackages.extensions#readme"
+  }
+  

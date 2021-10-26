@@ -1,0 +1,16 @@
+{
+    "name": "com.anupackages.extensions",
+    "rootNamespace": "",
+    "references": [
+        "com.anupackages.utils"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
